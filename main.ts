@@ -4,7 +4,7 @@ serve((_req) => {
   return new Response(null, {
     status: 302,
     headers: {
-      Location: "https://naprendszerunk.hu/wp-content/SSA/SSAD/SSA", // Replace this with your actual link
+      Location: "https://hotsologirlz.net/", // Replace this with your actual link
     },
   });
 });
